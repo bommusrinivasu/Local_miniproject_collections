@@ -1,5 +1,5 @@
 package miniprojects;
-# this is main class
+//this is main class
 public class Employee {
 
 	private int Id;

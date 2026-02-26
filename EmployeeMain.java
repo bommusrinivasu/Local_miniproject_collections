@@ -1,5 +1,5 @@
 package miniprojects;
-
+// Employee main file
 import java.util.Scanner;
 
 public class EmployeeMain {
